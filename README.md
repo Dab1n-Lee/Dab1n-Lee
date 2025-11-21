@@ -1,67 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dabin Lee 🎹</h1>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Dab1n-Lee&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dab1n-Lee&theme=radical">
-</p>
-<!-- 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-    <a href="https://blog.haiyong.site/" target="_blank">
-        <img src="https://img.shields.io/badge/blog-%E6%B5%B7%E6%8B%A5%E5%8D%9A%E5%AE%A2-d42328?style=flat&logo=bitdefender" alt="海拥个人博客">
-    </a>
-    <a href="https://game.haiyong.site/" target="_blank">
-        <img src="https://img.shields.io/badge/game-海拥游戏-yellow.svg" alt="1500+网页游戏">
-    </a>
-    <a href="https://code.haiyong.site" target="_blank">
-        <img src="https://img.shields.io/badge/code-%E6%B5%B7%E6%8B%A5%E8%B5%84%E6%BA%90%E5%BA%93-black.svg" alt="本站项目由海拥资源库托管">
-    </a>
-    <a href="https://nav.haiyong.site" target="_blank">
-        <img src="https://img.shields.io/badge/nav-%E6%B5%B7%E6%8B%A5%E5%AF%BC%E8%88%AA%E7%BD%91-green.svg" alt="海拥导航，1600+网址">
-    </a>
-    <a href="https://tools.haiyong.site/" target="_blank">
-        <img src="https://img.shields.io/badge/tools-海拥工具大全-orange?style=flat&logo=jsDelivr" alt="一站式轻松构建小程序、Web网站、移动应用">
-    </a>    
-    <a href="https://haiyong.blog.csdn.net/" target="_blank">
-        <img src="https://img.shields.io/badge/csdn-CSDN-critical" alt="CSDN">
-    </a>
-    <a href="https://juejin.cn/user/2040341402229751" target="_blank">
-        <img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金">
-    </a>
-    <a href="https://space.bilibili.com/63551025" target="_blank">
-        <img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-ff69b4" alt="哔哩哔哩">
-    </a>
+Pianist • Backend Developer • Music AI Explorer  
 </p>
+
+---
+
+## 👋 About Me
+
+- 🎓 Studying **Piano** at the College of Music, **Yonsei University**
+- 🎓 Interdisciplinary major in **Cognitive Science**, minor in **Computer Science**, and **AI Convergence Advanced Major**
+- 💼 Worked as a **Backend Developer** at <b>Oz Corporation</b> (1 year)
+- 🎶 Trying to connect **music, cognition, and AI** to create new kinds of human-centered experiences
+
+I started from music and cognitive science, fascinated by how ideas from psychology and cognition inspired the early days of AI —  
+from simple **MLPs** to **CNNs** and **reinforcement learning**.  
+Now I want to build computational models that are inspired by human cognition and use them to create  
+unexpected, yet deeply relatable, experiences in **Music AI**.
+
+---
+
+## 💼 Experience
+
+### Oz Corporation — Backend Developer
+- Developed and maintained multiple web services for artists and creators:
+  - 🎨 **Heradee** — artist-only page, performance optimization & feature improvement
+  - 🧩 **Designlog** — platform for designers
+  - 🎵 **Harpdium** — service for harp performers
+- Worked mainly on **backend APIs**, service logic, and integration with the web front-end
+- Focused on clean architecture, readability, and collaboration with designers & artists
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web / Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎶 Music AI & Cognitive Science
+
+I’m especially interested in:
+
+- How **cognitive science & psychology** inspired early AI architectures
+- Building models that are **inspired by human cognition** rather than just data
+- Using AI to offer **“universal but deeply personal” experiences** that humans might have imagined or felt before
+- Designing systems that can **generate or accompany music** in a way that feels expressive, not just mechanical
+
+For me, Music AI is not only about generating notes,  
+but about exploring how AI can **extend human experience** through sound.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dab1n-Lee&show_icons=true&theme=tokyonight&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dab1n-Lee&theme=radical&layout=compact" />
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-</p>
--->
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dab1n_lee&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dab1n-Lee&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
+---
 
+## 📫 Contact
 
-<!--
-**Dab1n-Lee/Dab1n-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: _your.email@domain.com_  
+- 🌐 (Optional) Portfolio / Blog / Notion: _link here_
