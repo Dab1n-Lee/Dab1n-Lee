@@ -73,7 +73,7 @@ but about exploring how AI can **extend human experience** through sound.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dab1n-Lee&show_icons=true&theme=tokyonight&line_height=27" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dab1n-Lee&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dab1n-Lee&theme=radical&layout=compact&langs_count=10"" />
 </p>
 
 <p align="center">
@@ -84,5 +84,4 @@ but about exploring how AI can **extend human experience** through sound.
 
 ## 📫 Contact
 
-- 📧 Email: _your.email@domain.com_  
-- 🌐 (Optional) Portfolio / Blog / Notion: _link here_
+- 📧 Email: dda2816@gmail.com
